@@ -1,1 +1,3 @@
+What is Devops??
+
 DevOps bridges the gap between development and operations teams, enabling faster and more reliable software delivery. It fosters collaboration, automation, and continuous improvement, reducing errors and deployment time. By integrating CI/CD pipelines, it ensures seamless updates and scalability. DevOps is essential for modern businesses to stay competitive, agile, and responsive to market demands. It transforms traditional workflows into efficient, automated, and innovation-driven processes.
