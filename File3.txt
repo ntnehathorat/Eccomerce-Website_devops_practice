@@ -1,0 +1,9 @@
+Start with Basics: Learn Linux, scripting, and version control (Git).
+
+Understand Tools: Master CI/CD tools like Jenkins, GitLab, and containerization (Docker, Kubernetes).
+
+Cloud Knowledge: Gain expertise in cloud platforms (AWS, Azure, GCP).
+
+Automate Everything: Focus on Infrastructure as Code (Terraform, Ansible).
+
+Practice & Collaborate: Work on real-world projects, contribute to open source, and embrace a DevOps mindset.

@@ -1,0 +1,1 @@
+Welcome to the DevOps course! 🚀 Get ready to dive into the world of seamless collaboration between development and operations. Together, we'll explore automation, CI/CD pipelines, and cloud technologies to transform your workflow. Let's build, deploy, and innovate faster than ever before! 🌟 Excited to have you on this journey!
